@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'usama855' # Hashnode Username
-          BLOG_URL: 'https://mdusama.hashnode.dev/' # Blog URL
+          BLOG_URL: 'https://blog.beyonddevops.online/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
