@@ -2,7 +2,7 @@
 
 #### A DevOps Engineer by day ☼ and a AWS Community Contributor by night ☾
 
-DevOps Engineer at [Technyx Systems](https://www.linkedin.com/company/technyx-systems/mycompany/);<br>
+DevOps Engineer at [Dglobal](https://www.din.global/);<br>
 
 - ⚙️ I use daily: `.AWS`, `.Linux`, `.Terraform`, `.Ansible`, `.Docker`, `.k8s`, `.Ansible`
 - 🌍 I'm mostly active within the **AWS Community**
