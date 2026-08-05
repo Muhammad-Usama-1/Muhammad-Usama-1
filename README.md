@@ -8,41 +8,32 @@ Currently working on a global enterprise platform running across six continents,
 
 My experience includes managing multi-account AWS environments, designing infrastructure as code, and automating deployment workflows for distributed systems with 70+ microservices.
 
-##  Tools & Technologies
+## Skills
 
-**Cloud**
-- AWS (Networking and Storage and everything in Between )
+**Cloud & Infrastructure**  
+AWS (EKS, EC2, VPC, RDS, S3, Route53, CloudFront, IAM)  
+Terraform | Ansible | Linux  
 
-**Infrastructure**
-- Terraform
-- Ansible
-- Linux
+**Containers & Orchestration**  
+Docker | Kubernetes | Helm  
 
-**Containers & Orchestration**
-- Docker
-- Kubernetes
-- Helm
+**CI/CD & DevOps**  
+GitHub Actions | Jenkins | ArgoCD | GitOps | CI/CD Automation  
 
-**CI/CD & GitOps**
-- GitHub Actions / Bitbucket
-- Jenkins
-- ArgoCD
+**Monitoring & Observability**  
+Prometheus | Grafana | OpenSearch | Fluent Bit | OpenTelemetry  
 
-**Monitoring & Observability**
-- Prometheus
-- Grafana
-- OpenSearch
-- Fluent Bit
-- New Relic
+**Security & Best Practices**  
+DevSecOps | Cloud Security | Infrastructure Automation | Reliability Engineering
+
+##  Certifications & Achievements
+
+**AWS Certified Solutions Architect – Associate**  
+
 
 ##  What I Care About
 
-- Building reliable and scalable infrastructure
-- Automating repetitive engineering workflows
-- Improving deployment velocity
-- Implementing DevSecOps practices
-- Sharing knowledge with the cloud community
-
+Building reliable cloud platforms, automating engineering workflows, improving developer experience, and helping teams deliver software faster with confidence.
 
 ##  Let's Connect
 
